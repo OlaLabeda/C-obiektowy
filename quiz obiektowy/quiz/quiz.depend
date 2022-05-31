@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1654015585 source:c:\users\labed\desktop\quiz obiektowy\quiz\main.cpp
+	<iostream>
+	"pytanie.h"
+
+1654014816 c:\users\labed\desktop\quiz obiektowy\quiz\pytanie.h
+	<iostream>
+
+1654015301 source:c:\users\labed\desktop\quiz obiektowy\quiz\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
